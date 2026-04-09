@@ -20,6 +20,7 @@ Simple equations of length contraction and time dilation derived in famous "On t
   $$\gamma = \frac{1}{\sqrt{{c^2} - {v^2}}} $$ 
   
 where **c** is the speed of light.
+
 **Plotting of World Lines**
 The World lines are plotted using:
 $$x' = tan(\beta) * (x) $$
