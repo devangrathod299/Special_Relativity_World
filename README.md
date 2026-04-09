@@ -21,6 +21,13 @@ Simple equations of length contraction and time dilation derived in famous "On t
   
 where **c** is the speed of light.
 
-**Plotting of World Lines**
+- **Plotting of World Lines**
+
 The World lines are plotted using:
-$$x' = tan(\beta) * (x) $$
+- $$x' = tan(\beta) * (x) $$
+
+- $$ct' = tan(\beta) * (ct) $$
+
+- $$ \beta = \frac{v}{c} $$
+
+where (x,t) is rest frame observers coordinate system, (x',t') is moving body's coordinate system observed from rest frame.
