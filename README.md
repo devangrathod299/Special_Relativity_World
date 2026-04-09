@@ -1,6 +1,10 @@
 # Special_Relativity_World
 This is a small-scaled pygame simulation of Lorentz transformation and shift in world lines with respect to change in the velocity of the body moving in a straight line.
 
+# About:
+
+Visualizing difficult concepts is very fascinating, especially those which you do not observe so easily like special relativity. This simulation brings Einstein's Special Relativity to life showcasing how does space-time system transforms for a moving observer using Lorentz transformation and Minkowski diagrams.
+
 # What does this project do?
 This takes a given Relativistic velocity (in fraction of speed of light (c)) and displays:
 - **Length Contraction** - How much the distance shrinks in the direction of motion.
