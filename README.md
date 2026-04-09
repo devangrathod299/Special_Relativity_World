@@ -28,6 +28,6 @@ The World lines are plotted using:
 
 - $$ct' = tan(\beta) * (ct) $$
 
-- $$ \beta = \frac{v}{c} $$
+- $$\beta = \frac{v}{c}$$
 
 where (x,t) is rest frame observers coordinate system, (x',t') is moving body's coordinate system observed from rest frame.
