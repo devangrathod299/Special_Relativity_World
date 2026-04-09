@@ -36,6 +36,11 @@ The World lines are plotted using:
 
 where (x,t) is rest frame observers coordinate system, (x',t') is moving body's coordinate system observed from rest frame.
 
+## Road map:
+- Introducing multiple frames with different velocities.
+- Adding different types of motion and acceleration to frames.
+- Answering 'What if beyond c?'
+
 ## Built With
 
 - **Python** - Programming language
