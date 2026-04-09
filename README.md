@@ -47,4 +47,4 @@ where (x,t) is rest frame observers coordinate system, (x',t') is moving body's 
 - **Pygame** - Graphics and simulation rendering
 
 ## Download & Run
-Go to the [Releases](https://github.com/devangrathod299/Special_Relativity_World/releases) page and download the latest `.exe`!
+Go to the [Releases](https://github.com/devangrathod299/Special_Relativity_World/releases) page and download the latest `.exe`
