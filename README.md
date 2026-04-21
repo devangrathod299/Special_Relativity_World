@@ -29,10 +29,10 @@ Simple equations of length contraction and time dilation derived in famous "On t
 where **c** is the speed of light.
 
 - **Length Contraction:**
-  $$L = \frac{L<sub>o</sub>}{\gamma} $$
+  $$L = \frac{L_o}{\gamma} $$
 
 - **Time Dilation:**
-  $$T = \gamma * T<sub>o</sub> $$
+  $$T = \gamma * T_o $$
 
 - **Plotting of World Lines**
 
