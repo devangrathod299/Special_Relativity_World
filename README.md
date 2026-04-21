@@ -7,6 +7,7 @@ Visualizing difficult concepts is very fascinating, especially those which you d
 
 # What does this project do?
 This takes a given Relativistic velocity (in fraction of speed of light (c)) and displays:
+
 -**Lorentz Transformation** - How the space and time changes for a moving body.
 - **Length Contraction** - How much the distance shrinks in the direction of motion.
 - **Time Dilation** - How time slows down for a moving observer.
