@@ -34,7 +34,7 @@ where **c** is the speed of light.
 - **Time Dilation:**
   $$T = \gamma * T_0 $$
 
-  where L_0 and T_0 space and time intervals in rest frames. 
+where L_0 and T_0 space and time intervals in rest frames. 
 
 - **Plotting of World Lines**
 
@@ -47,10 +47,20 @@ The World lines are plotted using:
 
 where (x,t) is rest frame observers coordinate system, (x',t') is moving body's coordinate system observed from rest frame.
 
+## Version 1.0.0 :
+- Shows the Lorentz transformation of space and time coordinate systems.
+- Real-time plots the world lines of the moving frame for different velocities.
+
+## Version 1.1.0 :
+- Implemented the concept of simultaneity and its breaking due to change of reference frames.
+- Showcasing the effects of Lorentz transformation; **length contraction** and **time dilation**.
+- Better user interface.
+
 ## Road map:
 - Introducing multiple frames with different velocities.
 - Adding different types of motion and acceleration to frames.
-- Answering 'What if beyond c?'
+- Answering 'What if beyond c?'.
+- Visualizing the concept of space-time intervals.
 
 ## Built With
 
