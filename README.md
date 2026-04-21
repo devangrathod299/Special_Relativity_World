@@ -29,7 +29,7 @@ Simple equations of length contraction and time dilation derived in famous "On t
 where **c** is the speed of light.
 
 - **Length Contraction:**
-  $$L = \frac{Lo}{\gamma}$$
+  $$L = \frac{L<sub>o<\sub>}{\gamma}$$
 
 - **Time Dilation:**
   $$T = \gamma * To $$
