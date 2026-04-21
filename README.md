@@ -17,16 +17,22 @@ This takes a given Relativistic velocity (in fraction of speed of light (c)) and
   
 # Mathematics involved:
 Simple equations of length contraction and time dilation derived in famous "On the Electrodynamics of Moving Bodies"(1906) paper by Einstein. In the theory, an object moving at velocity **v** relative to an observer experiences:
-- **Length Contraction:**
+- **Lorentz Transformation of Space:**
   $$x_r = \gamma(x - (vt)) $$
   
-- **Time Dilation:**
+- **Lorentz Transformation of Time:**
   $$t_r = \gamma(t - (\frac{vx}{c^2})) $$
 
 - **Lorentz Factor:**
-  $$\gamma = \frac{1}{\sqrt{{c^2} - {v^2}}} $$ 
+  $$\gamma = \frac{1}{\sqrt{{c^2} - {v^2}}} $$
   
 where **c** is the speed of light.
+
+- **Length Contraction:**
+  $$L = \frac{Lo}{\gama}$$
+
+- **Time Dilation:**
+  $$T = \gama * To $$
 
 - **Plotting of World Lines**
 
