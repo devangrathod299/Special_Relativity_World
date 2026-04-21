@@ -13,7 +13,7 @@ This takes a given Relativistic velocity (in fraction of speed of light (c)) and
   - **Time Dilation** - How time slows down for a moving observer.
 - **Lorentz Factor** - By what factor the length contraction and time dilation takes place.
 - **Shift in World Lines** - How the axes of space and time transform.
-- **Breaking Simultaneity** - How events are seem to occur simultaneous in one frame no longer seem simultaneous in another frame moving with respect to the reference frame.
+- **Breakdown of Simultaneity** - How events that seem to occur simultaneous in one frame no longer seem simultaneous in another frame moving with respect to the reference frame.
   
 # Mathematics involved:
 Simple equations of length contraction and time dilation derived in famous "On the Electrodynamics of Moving Bodies"(1906) paper by Einstein. In the theory, an object moving at velocity **v** relative to an observer experiences:
