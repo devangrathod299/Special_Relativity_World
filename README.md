@@ -32,7 +32,7 @@ where **c** is the speed of light.
   $$L = \frac{L<sub>o</sub>}{\gamma} $$
 
 - **Time Dilation:**
-  $$T = \gamma * To $$
+  $$T = \gamma * T<sub>o</sub> $$
 
 - **Plotting of World Lines**
 
